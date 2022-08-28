@@ -9,3 +9,4 @@
 ### webpack系列
 - [webpack基础](https://github.com/AdolescentJou/KnowledgeNote/issues/1)
 - [webpack打包配置优化](https://github.com/AdolescentJou/KnowledgeNote/issues/2)
+- [webpack打包速度优化](https://github.com/AdolescentJou/KnowledgeNote/issues/3)
