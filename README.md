@@ -21,3 +21,6 @@
 ### 全栈系列
 - [深入浅出remixjs](https://github.com/AdolescentJou/KnowledgeNote/issues/8)
 - [nextjs渲染方式梳理](https://github.com/AdolescentJou/KnowledgeNote/issues/9)
+
+### React系列
+- [使用Immer解决React对象深度更新的痛点](https://github.com/AdolescentJou/KnowledgeNote/issues/10)
