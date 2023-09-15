@@ -26,6 +26,7 @@
 
 ### React系列
 - [使用Immer解决React对象深度更新的痛点](https://github.com/AdolescentJou/KnowledgeNote/issues/10)
+- [使用React-Query解决接口请求的麻烦事儿](https://github.com/AdolescentJou/Blog/issues/12)
 
 ### Css系列
 - [聊一聊font-weight](https://github.com/AdolescentJou/Blog/issues/11)
